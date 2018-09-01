@@ -22,8 +22,8 @@ export default {
           age: '20',
           profession: 'Konditor',
           texts: [
-            'Jag tror att det jag gillar med SocialModeraterna är deras inställning till nät-hat. Jag blir alltid så ledsen när jag ser folk nät-hata, men jag känner definitivt att jag som medborgare kan bidra med att nät-tjata. Jag brukar alltid skriva till min vänner på facebook hur jag känner mig, nu har jag ytterligare en anledning till att göra det!',
-            'Även det här om att fokusera om på busstrafik tror jag starkt på, jag bor nära Stockholm så vi har inte direkt några fungerande tåg, men bussar hade ju varit jättetrevligt!'
+            'Jag tror att det jag gillar med SocialModeraterna är deras inställning till nät-hat. Jag blir alltid så ledsen när jag ser folk nät-hata, men jag känner definitivt att jag som medborgare kan bidra med att nät-tjata. Jag brukar alltid skriva till mina vänner på facebook hur jag känner mig, nu har jag ytterligare en anledning till att göra det!',
+            'Även det här om att fokusera på busstrafik tror jag starkt på, jag bor nära Stockholm så vi har inte direkt några fungerande tåg, men bussar hade ju varit jättetrevligt!'
           ]
         },
         {
@@ -33,7 +33,7 @@ export default {
           profession: 'Kattvakt',
           texts: [
             'Som professionel kattvakt känner jag att ett medlemskap i NATO skulle göra mycket för landet, speciellt som både jag och min sambo ofta bekymrar oss om underfinansieringen av ett av landets största industriprojekt; JAS 39 Gripen. Här känner jag att SocialModeraterna tar ansvar för nationens flygvapens framtid.',
-            'Tycker även om att man vill satsa mer på att bomba bort naturkatastrofer och liknande. '
+            'Tycker även om att man vill satsa mer på att bomba bort naturkatastrofer och andra nationella olägenheter. '
           ]
         },
         {

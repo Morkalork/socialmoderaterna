@@ -4,7 +4,7 @@
       <v-flex xs12 mb-5>
         <h2 class='display-3 mb-2'>Våra stolta språkrör</h2>
         <section class='preamble subheading'>
-          <p>För att få en så diversifierad ledning som möjligt har SocialModeraterna inte en men två(!) partiledare, eller språkrör som vi väljer att kalla det!</p>
+          <p>För att få en så diversifierad ledning som möjligt har SocialModeraterna inte en men två(!) partiledare, eller språkrör som vi väljer att kalla dem!</p>
           <p>Anders och Johan jobbar dag och natt för att bedriva vår politik i polemik med sig själva. Det gör att alla förslag redan är debatterade minst en gång innan de "kommer ut på marknaden", så att säga.</p>
           <p>Varför inte läsa lite med om våra stolta representanter? Nedan följer deras syn på Sverige och den politik SocialModeraterna har att erbjuda just Dig!</p>
         </section>

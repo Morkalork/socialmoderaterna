@@ -41,7 +41,7 @@ export default {
           src: Health,
           title: 'Vård & Omsorg',
           description:
-            'Vi vill ha den bästa vården som så lite pengar som möjligt. Förstatliga hyrläkarnas bemanningsfirmor så att vi kan fakturera oss själva, bemanna vårdcentraler med oavlönad välvilja och hopp!'
+            'Vi vill ha den bästa vården för så lite pengar som möjligt. Förstatliga hyrläkarnas bemanningsfirmor så att vi kan fakturera oss själva, bemanna vårdcentraler med oavlönad välvilja och hopp!'
         },
         {
           src: Economy,
@@ -80,13 +80,13 @@ export default {
           src: Crisis,
           title: 'Krisberedskap',
           description:
-            'Brand? Storm? Ösregn? Utsläpp? Allt går att lösa med hjälp av JAS 39 Gripen och GBU-49 laserstyd bomb!'
+            'Brand? Storm? Ösregn? Utsläpp? Allt går att lösa med hjälp av JAS 39 Gripen och GBU-49 laserstyd bomber!'
         },
         {
           src: Military,
           title: 'Militär beredskap',
           description:
-            'Vi föreslår att vi går med i NATO, sen lägger vi de 3% av landets BNP som vi måste lägga på vår militär på att utveckla JAS och låta danskj****n sköta resten av försvaret. Win-win!'
+            'Vi föreslår att vi går med i NATO, sen lägger vi de 3% av landets BNP som vi måste lägga på vår militär på att utveckla JAS och låter danskj****n sköta resten av försvaret. Win-win!'
         },
         {
           src: School,
