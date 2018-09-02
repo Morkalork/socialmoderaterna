@@ -1,6 +1,8 @@
 # socialmoderaterna
 
-> A Vue.js project
+> Because voting is boring when everybody says the same stuff...
+
+This is a project I'm doing to try out Vue and, more importantly, [Vuetify](https://vuetifyjs.com/en/)! You can view the site on my GitHub Pages: [here](https://morkalork.github.io/socialmoderaterna/#/)!
 
 ## Build Setup
 
@@ -24,4 +26,3 @@ npm run unit
 npm test
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
